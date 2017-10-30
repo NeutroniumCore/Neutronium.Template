@@ -1,0 +1,29 @@
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\bin\Release\ProjectTemplates\Neutronium knockout Application.zip
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\bin\Release\ProjectTemplates\Neutronium Vue Application.zip
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\bin\Release\LICENSE.txt
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\bin\Release\logo.png
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\bin\Release\Neutronium.vsix
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\bin\Release\extension.vsixmanifest
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\obj\Release\Neutronium.dll
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\obj\Release\Neutronium.pdb
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\obj\Release\extension.vsixmanifest
+E:\Neutronium\Neutronium\bin\Release\ProjectTemplates\Neutronium knockout Application.zip
+E:\Neutronium\Neutronium\bin\Release\ProjectTemplates\Neutronium Vue Application.zip
+E:\Neutronium\Neutronium\bin\Release\LICENSE.txt
+E:\Neutronium\Neutronium\bin\Release\logo.png
+E:\Neutronium\Neutronium\obj\Release\Neutronium.dll
+E:\Neutronium\Neutronium\obj\Release\Neutronium.pdb
+E:\Neutronium\Neutronium\obj\Release\extension.vsixmanifest
+E:\Neutronium\Neutronium\bin\Release\Neutronium.vsix
+E:\Neutronium\Neutronium\bin\Release\extension.vsixmanifest
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\bin\Release\ProjectTemplates\Neutronium knockout Application.zip
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\bin\Release\ProjectTemplates\Neutronium Vue Application.zip
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\bin\Release\LICENSE.txt
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\bin\Release\logo.png
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\bin\Release\Neutronium.vsix
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\bin\Release\extension.vsixmanifest
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\Neutronium.csprojResolveAssemblyReference.cache
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\Neutronium.csproj.CoreCompileInputs.cache
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\Neutronium.dll
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\Neutronium.pdb
+C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\extension.vsixmanifest

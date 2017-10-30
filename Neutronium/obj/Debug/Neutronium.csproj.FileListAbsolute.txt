@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\bin\Debug\ProjectTemplates\Neutronium Vue Application.zip
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\bin\Debug\ProjectTemplates\Neutronium knockout Application.zip
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\bin\Debug\LICENSE.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\bin\Debug\logo.png
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\bin\Debug\Neutronium.vsix
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\bin\Debug\extension.vsixmanifest
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\obj\Debug\Neutronium.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\obj\Debug\Neutronium.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Neutronium\Neutronium\obj\Debug\extension.vsixmanifest
+C:\Users\David\documents\visual studio 2015\Projects\Neutronium\Neutronium\obj\Debug\Neutronium.csprojResolveAssemblyReference.cache

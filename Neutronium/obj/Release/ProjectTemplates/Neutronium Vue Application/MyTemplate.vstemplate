@@ -1,0 +1,70 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Neutronium Vue Application</Name>
+    <Description>Provides template project for Neutronium (https://github.com/David-Desmaisons/Neutronium)</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Neutronium Vue Application</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.png</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Neutronium Vue Application4.csproj" File="Neutronium Vue Application4.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.xaml">App.xaml</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.xaml.cs">App.xaml.cs</ProjectItem>
+      <Folder Name="Content" TargetFolderName="Content">
+        <ProjectItem ReplaceParameters="false" TargetFileName="logo.png">logo.png</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="MainWindow.xaml">MainWindow.xaml</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="MainWindow.xaml.cs">MainWindow.xaml.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="packages.config">packages.config</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <Folder Name="View" TargetFolderName="View">
+        <Folder Name="Main" TargetFolderName="Main">
+          <ProjectItem ReplaceParameters="false" TargetFileName=".babelrc">.babelrc</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName=".gitignore">.gitignore</ProjectItem>
+          <Folder Name="data" TargetFolderName="data">
+            <ProjectItem ReplaceParameters="false" TargetFileName="vm.cjson">vm.cjson</ProjectItem>
+          </Folder>
+          <Folder Name="dist" TargetFolderName="dist">
+            <ProjectItem ReplaceParameters="false" TargetFileName="810a1b930979de83478be0f458b51dd8.png">810a1b930979de83478be0f458b51dd8.png</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="build.js">build.js</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="styles.css">styles.css</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="styles.css.map">styles.css.map</ProjectItem>
+          </Folder>
+          <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="npm-shrinkwrap.json">npm-shrinkwrap.json</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="package.json">package.json</ProjectItem>
+          <ProjectItem ReplaceParameters="false" TargetFileName="README.md">README.md</ProjectItem>
+          <Folder Name="src" TargetFolderName="src">
+            <ProjectItem ReplaceParameters="false" TargetFileName="App.vue">App.vue</ProjectItem>
+            <Folder Name="assets" TargetFolderName="assets">
+              <ProjectItem ReplaceParameters="false" TargetFileName="logo.png">logo.png</ProjectItem>
+            </Folder>
+            <ProjectItem ReplaceParameters="true" TargetFileName="entry.js">entry.js</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="install.js">install.js</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="main.js">main.js</ProjectItem>
+          </Folder>
+          <ProjectItem ReplaceParameters="true" TargetFileName="utils.js">utils.js</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="webpack.config.js">webpack.config.js</ProjectItem>
+        </Folder>
+      </Folder>
+      <Folder Name="ViewModel" TargetFolderName="ViewModel">
+        <ProjectItem ReplaceParameters="true" TargetFileName="HelloViewModel.cs">HelloViewModel.cs</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

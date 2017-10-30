@@ -1,0 +1,9 @@
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.4\\extension.vsixmanifest
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.4\ProjectTemplates\\Neutronium Vue Application.zip
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.4\ProjectTemplates\\Neutronium knockout Application.zip
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.4\\LICENSE.txt
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.4\\logo.png
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.5\\extension.vsixmanifest
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.5\ProjectTemplates\\Neutronium knockout Application.zip
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.5\\LICENSE.txt
+C:\Users\David\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Desmaisons\Neutronium Application Templates\2.5\\logo.png
