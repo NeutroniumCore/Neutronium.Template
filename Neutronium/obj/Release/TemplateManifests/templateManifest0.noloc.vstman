@@ -5,7 +5,7 @@
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
         <Name>Neutronium knockout Application</Name>
-        <Description>Neutronium knockout Application with ChromiumFx</Description>
+        <Description>Neutronium knockout Application</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
@@ -26,7 +26,7 @@
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
         <Name>Neutronium Vue Application</Name>
-        <Description>Provides template project for Neutronium (https://github.com/David-Desmaisons/Neutronium)</Description>
+        <Description>Neutronium Vue Application</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
@@ -37,6 +37,7 @@
         <LocationField>Enabled</LocationField>
         <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
         <Icon>__TemplateIcon.png</Icon>
+        <PreviewImage>__PreviewImage.png</PreviewImage>
       </TemplateData>
     </VSTemplateHeader>
   </VSTemplateContainer>

@@ -27,3 +27,13 @@ C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Re
 C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\Neutronium.dll
 C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\Neutronium.pdb
 C:\Users\david.desmaisons\Documents\source\Template\Neutronium\Neutronium\obj\Release\extension.vsixmanifest
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium knockout Application.zip
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium Vue Application.zip
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\LICENSE.txt
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\logo.png
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\Neutronium.vsix
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\extension.vsixmanifest
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\Neutronium.csproj.CoreCompileInputs.cache
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\Neutronium.dll
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\Neutronium.pdb
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\extension.vsixmanifest
