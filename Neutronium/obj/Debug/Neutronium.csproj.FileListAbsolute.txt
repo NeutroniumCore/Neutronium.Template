@@ -18,4 +18,3 @@ C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\De
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Debug\Neutronium.dll
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Debug\Neutronium.pdb
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Debug\extension.vsixmanifest
-C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Debug\Neutronium.csprojResolveAssemblyReference.cache
