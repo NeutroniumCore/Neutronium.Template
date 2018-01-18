@@ -37,3 +37,4 @@ C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Re
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\Neutronium.dll
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\Neutronium.pdb
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\extension.vsixmanifest
+C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium.Vue.SPA.zip

@@ -6,12 +6,13 @@
         xmlns:local="clr-namespace:$safeprojectname$"
         xmlns:WPF="clr-namespace:Neutronium.WPF;assembly=Neutronium.WPF" x:Class="$safeprojectname$.MainWindow"
         mc:Ignorable="d"
+        Name="Root"
         Icon="Content\logo.png"
         Visibility="{Binding ElementName=HtmlView, Path=IsHTMLLoaded, Converter={StaticResource BooleanToVisibilityConverter}}"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
 
-        <WPF:HTMLViewControl x:Name="HtmlView" IsDebug="True" Uri="pack://application:,,,/View/Main/dist/index.html" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <WPF:HTMLViewControl x:Name="HtmlView" IsDebug="{Binding ElementName=Root, Path=Debug}" Uri="{Binding ElementName=Root, Path=Uri}"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
     </Grid>
 </Window>

@@ -1,13 +1,13 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
-    <Name>Neutronium Vue Application</Name>
+    <Name>Neutronium Vue Application1</Name>
     <Description>Neutronium Vue Application</Description>
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>
     </ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>Neutronium Vue Application</DefaultName>
+    <DefaultName>Neutronium Vue Application1</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
@@ -15,10 +15,11 @@
     <PreviewImage>__PreviewImage.png</PreviewImage>
   </TemplateData>
   <TemplateContent>
-    <Project TargetFileName="Neutronium Vue Application9.csproj" File="Neutronium Vue Application9.csproj" ReplaceParameters="true">
+    <Project TargetFileName="Neutronium Vue Application1.csproj" File="Neutronium Vue Application1.csproj" ReplaceParameters="true">
       <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="App.xaml">App.xaml</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="App.xaml.cs">App.xaml.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationMode.cs">ApplicationMode.cs</ProjectItem>
       <Folder Name="Content" TargetFolderName="Content">
         <ProjectItem ReplaceParameters="false" TargetFileName="logo.png">logo.png</ProjectItem>
       </Folder>
@@ -42,12 +43,13 @@
           <Folder Name="dist" TargetFolderName="dist">
             <ProjectItem ReplaceParameters="false" TargetFileName="810a1b930979de83478be0f458b51dd8.png">810a1b930979de83478be0f458b51dd8.png</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="build.js">build.js</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="build.js.map">build.js.map</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="styles.css">styles.css</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="styles.css.map">styles.css.map</ProjectItem>
           </Folder>
           <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
-          <ProjectItem ReplaceParameters="true" TargetFileName="npm-shrinkwrap.json">npm-shrinkwrap.json</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="package-lock.json">package-lock.json</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="package.json">package.json</ProjectItem>
           <ProjectItem ReplaceParameters="false" TargetFileName="README.md">README.md</ProjectItem>
           <Folder Name="src" TargetFolderName="src">
@@ -57,6 +59,7 @@
             </Folder>
             <ProjectItem ReplaceParameters="true" TargetFileName="entry.js">entry.js</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="install.js">install.js</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="integrated.js">integrated.js</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="main.js">main.js</ProjectItem>
           </Folder>
           <ProjectItem ReplaceParameters="true" TargetFileName="utils.js">utils.js</ProjectItem>

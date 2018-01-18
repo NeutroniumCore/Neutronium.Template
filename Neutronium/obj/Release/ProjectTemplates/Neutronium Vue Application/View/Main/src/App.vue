@@ -1,14 +1,14 @@
 <template>
-  <div>
+  <div class="app">
     <img src="./assets/logo.png">
-    <h1>{{ Message }}</h1>
+    <h1>{{Message}}</h1>
     <h2>Related Links</h2>
     <ul>
       <li><a target="_blank" href="https://vuejs.org">Core Vue Docs</a></li>
       <li><a target="_blank" href="https://forum.vuejs.org">Vue Forum</a></li>
-      <li><a target="_blank" href="https://github.com/NeutroniumCore/Neutronium">Neutronium</a></li>
-      <li><a target="_blank" href="https://github.com/NeutroniumCore/neutronium-vue">Neutronium Vue template</a></li>
-      <li><a target="_blank" href="https://github.com/NeutroniumCore/NeutoniumDemo">Neutronium Vue application demo</a></li>
+      <li><a target="_blank" href="https://github.com/NeutroniumCore/Neutronium">Neutronium Project</a></li>
+      <li><a target="_blank" href="https://github.com/NeutroniumCore/neutronium-vue">Neutronium Vue client</a></li>
+      <li><a target="_blank" href="https://github.com/NeutroniumCore/Neutronium.Template/blob/master/README.md">Template documentation</a></li>
     </ul>
   </div>
 </template>
@@ -29,7 +29,7 @@ export default {
 </script>
 
 <style>
-#main {
+.app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
