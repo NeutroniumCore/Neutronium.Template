@@ -2,6 +2,8 @@
 
 Visual Studio 2015-7 Neutronium Template
 
+https://marketplace.visualstudio.com/items?itemName=DavidDes.NeutroniumApplicationTemplates
+
 
 ## Included:
 - `Neutronium knockout Application` Neutronium Knockout simple template
