@@ -1,6 +1,6 @@
 # Neutronium.Template
 
-Visual Studio 2015-7 Neutronium Template
+Visual Studio 2015-7 [Neutronium](https://github.com/NeutroniumCore/Neutronium) Template
 
 https://marketplace.visualstudio.com/items?itemName=DavidDes.NeutroniumApplicationTemplates
 
