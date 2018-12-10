@@ -5,12 +5,12 @@ using Neutronium.WPF;
 using System.Linq;
 using System;
 
-namespace $safeprojectname$ 
+namespace $safeprojectname$
 {
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
-    public partial class App : ChromiumFxWebBrowserApp 
+    public partial class App : ChromiumFxWebBrowserApp
     {
         public ApplicationMode Mode { get; private set; }
         public bool RunTimeOnly => (Mode != ApplicationMode.Dev);
@@ -20,15 +20,15 @@ namespace $safeprojectname$
 
         public static App MainApplication => Current as App;
 
-        protected override IJavascriptFrameworkManager GetJavascriptUIFrameworkManager() 
+        protected override IJavascriptFrameworkManager GetJavascriptUIFrameworkManager()
         {
             return new VueSessionInjector();
         }
 
-        protected override void OnStartUp(IHTMLEngineFactory factory) 
+        protected override void OnStartUp(IHTMLEngineFactory factory)
         {
             Mode = GetApplicationMode(Args);
-            factory.RegisterJavaScriptFrameworkAsDefault(new VueSessionInjectorV2{ RunTimeOnly = RunTimeOnly });
+            factory.RegisterJavaScriptFrameworkAsDefault(new VueSessionInjectorV2 { RunTimeOnly = RunTimeOnly });
             base.OnStartUp(factory);
         }
 

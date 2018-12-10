@@ -1,13 +1,13 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="Neutronium.David Desmaisons.5f19abb4-8d17-4934-b97f-b895e42ba2e1" Version="4.1" Language="en-US" Publisher="David Desmaisons" />
+    <Identity Id="Neutronium.David Desmaisons.5f19abb4-8d17-4934-b97f-b895e42ba2e1" Version="4.3" Language="en-US" Publisher="David Desmaisons" />
     <DisplayName>Neutronium Application Templates</DisplayName>
-    <Description xml:space="preserve">Neutronium project templates inclusing  Vue.js Chromium.Fx application.</Description>
+    <Description xml:space="preserve">Neutronium project templates inclusing  Vue.js , mobx Chromium.Fx application.</Description>
     <MoreInfo>https://github.com/NeutroniumCore/Neutronium</MoreInfo>
     <License>LICENSE.txt</License>
     <Icon>logo.png</Icon>
     <PreviewImage>logo.png</PreviewImage>
-    <Tags>Neutronium, Chromium, MVVM, App, C#, HTML, Vue.js, Chromium.Fx</Tags>
+    <Tags>Neutronium, Chromium, MVVM, App, C#, HTML, Vue.js, Chromium.Fx, mobx</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,15.0]" />

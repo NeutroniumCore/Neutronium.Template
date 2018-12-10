@@ -25,14 +25,14 @@
     <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
-        <Name>Neutronium Vue Application1</Name>
+        <Name>Neutronium Vue Application</Name>
         <Description>Neutronium Vue Application</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
         <SortOrder>1000</SortOrder>
         <CreateNewFolder>true</CreateNewFolder>
-        <DefaultName>Neutronium Vue Application1</DefaultName>
+        <DefaultName>Neutronium Vue Application</DefaultName>
         <ProvideDefaultName>true</ProvideDefaultName>
         <LocationField>Enabled</LocationField>
         <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
@@ -47,7 +47,7 @@
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
         <Name>Neutronium.Vue.SPA</Name>
-        <Description>Neutronium Vue SPA</Description>
+        <Description>Neutronium.Vue.SPA</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
@@ -62,4 +62,4 @@
       </TemplateData>
     </VSTemplateHeader>
   </VSTemplateContainer>
-</VSTemplateManifest>
+</VSTemplateManifest>t>

@@ -8,11 +8,17 @@
         mc:Ignorable="d"
         Name="Root"
         Icon="Content\logo.png"
-        Visibility="{Binding ElementName=HtmlView, Path=IsHTMLLoaded, Converter={StaticResource BooleanToVisibilityConverter}}"
         Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <WPF:BoolToHiddenConverter x:Key="BoolToVis"/>
+    </Window.Resources>
     <Grid>
 
-        <WPF:HTMLViewControl x:Name="HtmlView" IsDebug="{Binding ElementName=Root, Path=Debug}" Uri="{Binding ElementName=Root, Path=Uri}"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <WPF:HTMLViewControl x:Name="WcBrowser" IsDebug="{Binding ElementName=Root, Path=Debug}" Uri="{Binding ElementName=Root, Path=Uri}"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
     </Grid>
+
+    <Window.Visibility>
+        <Binding ElementName="WcBrowser" Path="IsHTMLLoaded" Converter="{StaticResource BoolToVis}"/>
+    </Window.Visibility>
 </Window>

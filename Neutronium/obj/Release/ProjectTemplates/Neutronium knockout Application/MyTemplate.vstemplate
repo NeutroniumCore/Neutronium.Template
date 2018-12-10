@@ -32,6 +32,10 @@
         <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
       </Folder>
+      <Folder Name="scripts" TargetFolderName="scripts">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ko-view.js">ko-view.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Ko_Extension.min.js.map">Ko_Extension.min.js.map</ProjectItem>
+      </Folder>
       <Folder Name="View" TargetFolderName="View">
         <Folder Name="js" TargetFolderName="js">
           <ProjectItem ReplaceParameters="true" TargetFileName="script.js">script.js</ProjectItem>

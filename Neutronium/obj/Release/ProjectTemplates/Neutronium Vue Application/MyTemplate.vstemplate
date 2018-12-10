@@ -1,13 +1,13 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
-    <Name>Neutronium Vue Application1</Name>
+    <Name>Neutronium Vue Application</Name>
     <Description>Neutronium Vue Application</Description>
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>
     </ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>Neutronium Vue Application1</DefaultName>
+    <DefaultName>Neutronium Vue Application</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
@@ -34,36 +34,59 @@
         <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
       </Folder>
       <Folder Name="View" TargetFolderName="View">
-        <Folder Name="Main" TargetFolderName="Main">
-          <ProjectItem ReplaceParameters="false" TargetFileName=".babelrc">.babelrc</ProjectItem>
-          <ProjectItem ReplaceParameters="true" TargetFileName=".gitignore">.gitignore</ProjectItem>
+        <Folder Name="main" TargetFolderName="main">
+          <ProjectItem ReplaceParameters="false" TargetFileName=".browserslistrc">.browserslistrc</ProjectItem>
+          <ProjectItem ReplaceParameters="false" TargetFileName=".env.integrated">.env.integrated</ProjectItem>
+          <ProjectItem ReplaceParameters="false" TargetFileName=".env.production">.env.production</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName=".eslintrc.js">.eslintrc.js</ProjectItem>
+          <ProjectItem ReplaceParameters="false" TargetFileName=".gitignore">.gitignore</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="babel.config.js">babel.config.js</ProjectItem>
           <Folder Name="data" TargetFolderName="data">
             <ProjectItem ReplaceParameters="false" TargetFileName="vm.cjson">vm.cjson</ProjectItem>
           </Folder>
           <Folder Name="dist" TargetFolderName="dist">
-            <ProjectItem ReplaceParameters="false" TargetFileName="810a1b930979de83478be0f458b51dd8.png">810a1b930979de83478be0f458b51dd8.png</ProjectItem>
-            <ProjectItem ReplaceParameters="true" TargetFileName="build.js">build.js</ProjectItem>
-            <ProjectItem ReplaceParameters="true" TargetFileName="build.js.map">build.js.map</ProjectItem>
+            <Folder Name="css" TargetFolderName="css">
+              <ProjectItem ReplaceParameters="true" TargetFileName="app.css">app.css</ProjectItem>
+            </Folder>
+            <ProjectItem ReplaceParameters="false" TargetFileName="favicon.ico">favicon.ico</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
-            <ProjectItem ReplaceParameters="true" TargetFileName="styles.css">styles.css</ProjectItem>
-            <ProjectItem ReplaceParameters="true" TargetFileName="styles.css.map">styles.css.map</ProjectItem>
+            <Folder Name="js" TargetFolderName="js">
+              <ProjectItem ReplaceParameters="true" TargetFileName="app-legacy.js">app-legacy.js</ProjectItem>
+              <ProjectItem ReplaceParameters="true" TargetFileName="app-legacy.js.map">app-legacy.js.map</ProjectItem>
+              <ProjectItem ReplaceParameters="true" TargetFileName="app.js">app.js</ProjectItem>
+              <ProjectItem ReplaceParameters="true" TargetFileName="app.js.map">app.js.map</ProjectItem>
+              <ProjectItem ReplaceParameters="true" TargetFileName="chunk-vendors-legacy.js">chunk-vendors-legacy.js</ProjectItem>
+              <ProjectItem ReplaceParameters="true" TargetFileName="chunk-vendors-legacy.js.map">chunk-vendors-legacy.js.map</ProjectItem>
+            </Folder>
           </Folder>
-          <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="jest.config.js">jest.config.js</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="package-lock.json">package-lock.json</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="package.json">package.json</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="postcss.config.js">postcss.config.js</ProjectItem>
+          <Folder Name="public" TargetFolderName="public">
+            <ProjectItem ReplaceParameters="false" TargetFileName="favicon.ico">favicon.ico</ProjectItem>
+            <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
+          </Folder>
           <ProjectItem ReplaceParameters="false" TargetFileName="README.md">README.md</ProjectItem>
           <Folder Name="src" TargetFolderName="src">
             <ProjectItem ReplaceParameters="false" TargetFileName="App.vue">App.vue</ProjectItem>
             <Folder Name="assets" TargetFolderName="assets">
               <ProjectItem ReplaceParameters="false" TargetFileName="logo.png">logo.png</ProjectItem>
             </Folder>
+            <Folder Name="components" TargetFolderName="components">
+              <ProjectItem ReplaceParameters="false" TargetFileName="HelloWorld.vue">HelloWorld.vue</ProjectItem>
+            </Folder>
             <ProjectItem ReplaceParameters="true" TargetFileName="entry.js">entry.js</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="install.js">install.js</ProjectItem>
-            <ProjectItem ReplaceParameters="true" TargetFileName="integrated.js">integrated.js</ProjectItem>
             <ProjectItem ReplaceParameters="true" TargetFileName="main.js">main.js</ProjectItem>
           </Folder>
-          <ProjectItem ReplaceParameters="true" TargetFileName="utils.js">utils.js</ProjectItem>
-          <ProjectItem ReplaceParameters="true" TargetFileName="webpack.config.js">webpack.config.js</ProjectItem>
+          <Folder Name="tests" TargetFolderName="tests">
+            <Folder Name="unit" TargetFolderName="unit">
+              <ProjectItem ReplaceParameters="true" TargetFileName=".eslintrc.js">.eslintrc.js</ProjectItem>
+              <ProjectItem ReplaceParameters="true" TargetFileName="example.spec.js">example.spec.js</ProjectItem>
+            </Folder>
+          </Folder>
+          <ProjectItem ReplaceParameters="true" TargetFileName="vue.config.js">vue.config.js</ProjectItem>
         </Folder>
       </Folder>
       <Folder Name="ViewModel" TargetFolderName="ViewModel">
