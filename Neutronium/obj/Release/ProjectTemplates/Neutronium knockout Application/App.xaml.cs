@@ -2,7 +2,7 @@
 using Neutronium.WebBrowserEngine.ChromiumFx;
 using Neutronium.JavascriptFramework.Knockout;
 
-namespace $safeprojectname$
+namespace Neutronium_knockout_Application1
 {
     /// <summary>
     /// Interaction logic for App.xaml

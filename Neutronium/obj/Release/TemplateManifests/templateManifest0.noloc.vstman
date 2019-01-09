@@ -5,7 +5,7 @@
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
         <Name>Neutronium knockout Application</Name>
-        <Description>Neutronium knockout Application</Description>
+        <Description>Neutronium knockout Application template</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
@@ -21,18 +21,18 @@
     </VSTemplateHeader>
   </VSTemplateContainer>
   <VSTemplateContainer TemplateType="Project">
-    <RelativePathOnDisk>Neutronium Vue Application</RelativePathOnDisk>
+    <RelativePathOnDisk>Neutronium.Vue.SPA</RelativePathOnDisk>
     <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
-        <Name>Neutronium Vue Application</Name>
-        <Description>Neutronium Vue Application</Description>
+        <Name>Neutronium.Vue.SPA</Name>
+        <Description>Neutronium Vue SPA template</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
         <SortOrder>1000</SortOrder>
         <CreateNewFolder>true</CreateNewFolder>
-        <DefaultName>Neutronium Vue Application</DefaultName>
+        <DefaultName>Neutronium.Vue.SPA</DefaultName>
         <ProvideDefaultName>true</ProvideDefaultName>
         <LocationField>Enabled</LocationField>
         <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
@@ -42,18 +42,39 @@
     </VSTemplateHeader>
   </VSTemplateContainer>
   <VSTemplateContainer TemplateType="Project">
-    <RelativePathOnDisk>Neutronium.Vue.SPA</RelativePathOnDisk>
+    <RelativePathOnDisk>Neutronium.Mobx.Application</RelativePathOnDisk>
     <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
-        <Name>Neutronium.Vue.SPA</Name>
-        <Description>Neutronium.Vue.SPA</Description>
+        <Name>Neutronium.Mobx.Application</Name>
+        <Description>Neutronium Mobx Application Template</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
         <SortOrder>1000</SortOrder>
         <CreateNewFolder>true</CreateNewFolder>
-        <DefaultName>Neutronium.Vue.SPA</DefaultName>
+        <DefaultName>Neutronium.Mobx.Application</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <Icon>__TemplateIcon.png</Icon>
+        <PreviewImage>__PreviewImage.png</PreviewImage>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>Neutronium Vue Application</RelativePathOnDisk>
+    <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Neutronium.Vue.Application</Name>
+        <Description>Neutronium Vue Application</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>Neutronium.Vue.Application</DefaultName>
         <ProvideDefaultName>true</ProvideDefaultName>
         <LocationField>Enabled</LocationField>
         <EnableLocationBrowseButton>true</EnableLocationBrowseButton>

@@ -39,9 +39,9 @@ C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Re
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\obj\Release\extension.vsixmanifest
 C:\Users\david.desmaisons\Documents\source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium.Vue.SPA.zip
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium knockout Application.zip
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium Vue Application.zip
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium.Vue.SPA.zip
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium.Mobx.Application.zip
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\ProjectTemplates\Neutronium Vue Application.zip
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\LICENSE.txt
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\logo.png
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\bin\Release\Neutronium.vsix
@@ -53,7 +53,7 @@ C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\Neutr
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\extension.vsixmanifest
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\files.json
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\TemplateManifests\templateManifest0.noloc.vstman
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\Neutronium knockout Application1.csproj
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\Neutronium knockout Application.csproj
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\App.config
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\App.xaml
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\App.xaml.cs
@@ -75,56 +75,6 @@ C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\Proje
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\__TemplateIcon.png
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\__PreviewImage.png
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium knockout Application\MyTemplate.vstemplate
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Neutronium Vue Application1.csproj
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\App.config
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\App.xaml
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\App.xaml.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\ApplicationMode.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Content\logo.png
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\MainWindow.xaml
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\MainWindow.xaml.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\packages.config
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\AssemblyInfo.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Resources.resx
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Resources.Designer.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Settings.settings
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Settings.Designer.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\.browserslistrc
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\.env.integrated
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\.env.production
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\.eslintrc.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\.gitignore
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\babel.config.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\data\vm.cjson
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\css\app.css
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\favicon.ico
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\index.html
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\js\app-legacy.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\js\app-legacy.js.map
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\js\app.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\js\app.js.map
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\js\chunk-vendors-legacy.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\dist\js\chunk-vendors-legacy.js.map
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\jest.config.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\package-lock.json
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\package.json
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\postcss.config.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\public\favicon.ico
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\public\index.html
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\README.md
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\src\App.vue
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\src\assets\logo.png
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\src\components\HelloWorld.vue
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\src\entry.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\src\install.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\src\main.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\tests\unit\.eslintrc.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\tests\unit\example.spec.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\main\vue.config.js
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\ViewModel\HelloViewModel.cs
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\__TemplateIcon.png
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\__PreviewImage.png
-C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\MyTemplate.vstemplate
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Vue.SPA\Neutronium.SPA.csproj
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Vue.SPA\App.config
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Vue.SPA\App.xaml
@@ -202,3 +152,108 @@ C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\Proje
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Vue.SPA\__PreviewImage.png
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Vue.SPA\MyTemplate.vstemplate
 C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\templateFiles.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Neutronium Mobx Application.csproj
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\App.config
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\App.xaml
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\App.xaml.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\ApplicationMode.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Content\logo.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\MainWindow.xaml
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\MainWindow.xaml.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\packages.config
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Properties\AssemblyInfo.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Properties\Resources.resx
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Properties\Resources.Designer.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Properties\Settings.settings
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\Properties\Settings.Designer.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\.gitignore
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\env.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\jest\cssTransform.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\jest\fileTransform.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\paths.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\polyfills.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\webpack.config.dev.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\webpack.config.prod.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\config\webpackDevServer.config.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\data\vm.cjson
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\asset-manifest.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\favicon.ico
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\index.html
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\main.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\main.js.map
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\manifest.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\static\css\main.css
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\static\css\main.css.map
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\dist\static\media\logo.svg
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\package-lock.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\package.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\public\favicon.ico
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\public\index.html
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\public\manifest.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\README.md
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\scripts\build.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\scripts\integrated.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\scripts\start.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\scripts\test.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\App.css
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\App.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\App.test.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\index.css
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\index.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\infra\Command.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\logo.svg
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\src\mobxManager.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\View\tsconfig.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\ViewModel\HelloViewModel.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\__TemplateIcon.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\__PreviewImage.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium.Mobx.Application\MyTemplate.vstemplate
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Neutronium Simple Application.csproj
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\App.config
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\App.xaml
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\App.xaml.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Content\logo.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\MainWindow.xaml
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\MainWindow.xaml.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\packages.config
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\AssemblyInfo.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Resources.resx
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Resources.Designer.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Settings.settings
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\Properties\Settings.Designer.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\.browserslistrc
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\.env.integrated
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\.env.production
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\.eslintrc.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\.gitignore
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\babel.config.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\data\vm.cjson
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\css\app.css
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\favicon.ico
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\index.html
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\js\app-legacy.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\js\app-legacy.js.map
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\js\app.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\js\app.js.map
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\js\chunk-vendors-legacy.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\dist\js\chunk-vendors-legacy.js.map
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\jest.config.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\package-lock.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\package.json
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\postcss.config.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\public\favicon.ico
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\public\index.html
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\README.md
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\src\App.vue
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\src\assets\logo.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\src\components\HelloWorld.vue
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\src\entry.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\src\install.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\src\main.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\tests\unit\.eslintrc.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\tests\unit\example.spec.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\View\vue.config.js
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\ViewModel\HelloViewModel.cs
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\__TemplateIcon.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\__PreviewImage.png
+C:\Users\David\Documents\Source\Neutronium.Template\Neutronium\obj\Release\ProjectTemplates\Neutronium Vue Application\MyTemplate.vstemplate

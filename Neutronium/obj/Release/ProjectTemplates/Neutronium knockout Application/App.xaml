@@ -1,7 +1,7 @@
-﻿<chromiumFxInfra:ChromiumFxWebBrowserApp x:Class="$safeprojectname$.App"
+﻿<chromiumFxInfra:ChromiumFxWebBrowserApp x:Class="Neutronium_knockout_Application1.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:$safeprojectname$"
+             xmlns:local="clr-namespace:Neutronium_knockout_Application1"
              xmlns:chromiumFxInfra="clr-namespace:Neutronium.WebBrowserEngine.ChromiumFx;assembly=Neutronium.WebBrowserEngine.ChromiumFx" 
              StartupUri="MainWindow.xaml">
     <chromiumFxInfra:ChromiumFxWebBrowserApp.Resources>

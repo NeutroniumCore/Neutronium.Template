@@ -1,8 +1,8 @@
-﻿using $safeprojectname$.ViewModel;
+﻿using Neutronium_knockout_Application1.ViewModel;
 using System.Windows;
 using System;
 
-namespace $safeprojectname$
+namespace Neutronium_knockout_Application1
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
