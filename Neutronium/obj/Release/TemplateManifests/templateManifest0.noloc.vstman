@@ -26,7 +26,7 @@
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
         <Name>Neutronium.Vue.SPA</Name>
-        <Description>Neutronium Vue SPA template</Description>
+        <Description>Provides template project for Neutronium with vue</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
@@ -47,34 +47,13 @@
     <VSTemplateHeader>
       <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
         <Name>Neutronium.Mobx.Application</Name>
-        <Description>Neutronium Mobx Application Template</Description>
+        <Description>Neutronium Mobx template</Description>
         <ProjectType>CSharp</ProjectType>
         <ProjectSubType>
         </ProjectSubType>
         <SortOrder>1000</SortOrder>
         <CreateNewFolder>true</CreateNewFolder>
         <DefaultName>Neutronium.Mobx.Application</DefaultName>
-        <ProvideDefaultName>true</ProvideDefaultName>
-        <LocationField>Enabled</LocationField>
-        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
-        <Icon>__TemplateIcon.png</Icon>
-        <PreviewImage>__PreviewImage.png</PreviewImage>
-      </TemplateData>
-    </VSTemplateHeader>
-  </VSTemplateContainer>
-  <VSTemplateContainer TemplateType="Project">
-    <RelativePathOnDisk>Neutronium Vue Application</RelativePathOnDisk>
-    <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
-    <VSTemplateHeader>
-      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
-        <Name>Neutronium.Vue.Application</Name>
-        <Description>Neutronium Vue Application</Description>
-        <ProjectType>CSharp</ProjectType>
-        <ProjectSubType>
-        </ProjectSubType>
-        <SortOrder>1000</SortOrder>
-        <CreateNewFolder>true</CreateNewFolder>
-        <DefaultName>Neutronium.Vue.Application</DefaultName>
         <ProvideDefaultName>true</ProvideDefaultName>
         <LocationField>Enabled</LocationField>
         <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
