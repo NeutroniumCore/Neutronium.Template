@@ -18,9 +18,9 @@
     </Dependencies>
     <Assets>
         <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium knockout Application.zip" />
-        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium Vue Application.zip" />
         <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium.Vue.SPA.zip" />
         <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium.Mobx.Application.zip" />
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium.Vue.Application.zip" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.Net.ComponentGroup.TargetingPacks.Common" Version="[15.0.26208.0,16.4.29318.151)" DisplayName=".NET Framework 4 – 4.8 development tools" />
