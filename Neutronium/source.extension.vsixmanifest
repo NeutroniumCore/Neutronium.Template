@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Neutronium.David Desmaisons.5f19abb4-8d17-4934-b97f-b895e42ba2e1" Version="4.5" Language="en-US" Publisher="David Desmaisons" />
+        <Identity Id="Neutronium.David Desmaisons.5f19abb4-8d17-4934-b97f-b895e42ba2e1" Version="4.6" Language="en-US" Publisher="David Desmaisons" />
         <DisplayName>Neutronium Application Templates</DisplayName>
         <Description xml:space="preserve">Neutronium project templates inclusing  Vue.js , mobx Chromium.Fx application.</Description>
         <MoreInfo>https://github.com/NeutroniumCore/Neutronium</MoreInfo>
@@ -11,7 +11,7 @@
         <Tags>Neutronium, Chromium, MVVM, App, C#, HTML, Vue.js, Chromium.Fx, mobx</Tags>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,15.0]" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,16.6]" />
     </Installation>
     <Dependencies>
         <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
@@ -20,8 +20,9 @@
         <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium knockout Application.zip" />
         <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium Vue Application.zip" />
         <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium.Vue.SPA.zip" />
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\Neutronium.Mobx.Application.zip" />
     </Assets>
     <Prerequisites>
-        <Prerequisite Id="Microsoft.Net.ComponentGroup.TargetingPacks.Common" Version="[15.0.26208.0,16.0)" DisplayName=".NET Framework 4 – 4.6 development tools" />
+        <Prerequisite Id="Microsoft.Net.ComponentGroup.TargetingPacks.Common" Version="[15.0.26208.0,16.4.29318.151)" DisplayName=".NET Framework 4 – 4.8 development tools" />
     </Prerequisites>
 </PackageManifest>
